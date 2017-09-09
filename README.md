@@ -7,5 +7,5 @@ Attached find a video that will walk you through the following.
 5. If you choose to edit your cart you'll be able to edit the quantity that you chose or remove the item all together. If you remove all of your items from yur cart you'll be prompted to keep shopping or leave
 
 _Future Development: Add a Manager and Supervisor view_
-A. The manager view will allow you to view product sales by department and create create new departments
-B. the supervisor view will allow you to calculate the total profit based on the over head costs and product sales. 
+1. The manager view will allow you to view product sales by department and create create new departments
+2. the supervisor view will allow you to calculate the total profit based on the over head costs and product sales. 
