@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "This app works like Amazon from the command line",
+  "main": "Customer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbenjamin19/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbenjamin19/bamazon/issues"
+  },
+  "homepage": "https://github.com/rbenjamin19/bamazon#readme"
+}
